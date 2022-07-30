@@ -1,0 +1,160 @@
+body, html{
+  background-image: url("images/bk1.jpg");
+  margin: 0;
+  height: 100%;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nav{
+  position: absolute;
+  top: 30px;
+  right: 0;
+  margin: 0 ;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  padding-right: 50px;
+  background: rgba(0, 0, 0, 0.4  )
+}
+
+.nav-links{
+  display: inline-block;
+  text-decoration:none;
+  text-align: center;
+  margin: 0;
+  color: lightgray;
+  font-style: normal;
+  font-family: serif;
+  font-size: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 40px;
+
+}
+
+h2{
+  position: absolute;
+  top: 30%;
+  margin-left: 5%;
+  font-weight: lighter;
+}
+
+#ur_destination{
+  padding-right: 8px;
+  color: grey;
+}
+
+hr{
+  display: inline-block;
+  position: absolute;
+  top: 7%;
+  right: 47%;
+  border: 0;
+  width: 40%;
+  height: 0.5px;
+  background-color: #696969;
+  /* border-bottom: none; */
+}
+.num{
+  color:white;
+  margin-left: 0;
+  padding-right: 5px;
+  color: grey;
+  /* padding-right: 10px; */
+}
+
+h2{
+  margin-top: 0;
+  color: white;
+}
+
+.sub-cat_link{
+  text-decoration: none;
+  color: #DCDCDC;
+  margin-left: 0px;
+  margin-right: 8px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+
+
+h1{
+  color: white;
+  font-size:7em;
+  /* font-weight: 100 ; */
+  margin-bottom: 1px;
+  margin-top: 1px;
+  font-weight: lighter;
+  border: 0;
+}
+
+#hr2{
+  position: absolute;
+  top: 68%;
+  left: 0;
+  margin-top: 45px;
+  margin-bottom: 0;
+  background-color: #696969;
+  height:  0.2px;
+  border: 0;
+  width: 90%;
+}
+
+.tab{
+  color: white;
+  margin-top: 50px;
+  line-height: 1.5;
+}
+
+p{
+  margin-top: 0;
+  color: #DCDCDC;
+  line-height: 1.5;
+}
+
+.body-container{
+  position: absolute;
+  top:40%;
+  left: 67%;
+  width: 30%;
+}
+
+.Sub_cat{
+  padding: 10px;
+  margin-left: 0;
+
+}
+
+
+
+#mon{
+  padding-left: 0;
+  margin-top: 0;
+
+}
+
+#tab_data{
+  font-size: 10px;
+  font-weight: normal;
+  color: #DCDCDC;
+}
+
+
+.tab_class{
+  margin-left: 0;
+  padding-left: 40px;
+}
+
+.logo{
+  display: inline-block;
+  position:absolute;
+  margin-top: 0;
+  margin-top: 8px;
+  margin-left: -20px;
+  width: 200px;
+  height: 100px;
+}
